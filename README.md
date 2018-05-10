@@ -1,2 +1,2 @@
 # iOS-App-Signer
-ipa Resigned
+ipa resigned、a mac tool
